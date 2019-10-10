@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9d85f12.chunk.css",
+    "main.js": "/static/js/main.0ab6bbbc.chunk.js",
+    "main.js.map": "/static/js/main.0ab6bbbc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56668ad9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56668ad9.js.map",
+    "static/css/2.bab72b4a.chunk.css": "/static/css/2.bab72b4a.chunk.css",
+    "static/js/2.5f66ddef.chunk.js": "/static/js/2.5f66ddef.chunk.js",
+    "static/js/2.5f66ddef.chunk.js.map": "/static/js/2.5f66ddef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fd0878e63adc985dafaa7dd0367be45f.js": "/precache-manifest.fd0878e63adc985dafaa7dd0367be45f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bab72b4a.chunk.css.map": "/static/css/2.bab72b4a.chunk.css.map",
+    "static/css/main.c9d85f12.chunk.css.map": "/static/css/main.c9d85f12.chunk.css.map",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/nigcom-logo.png": "/static/media/nigcom-logo.ac048512.png",
+    "static/media/slider1.jpg": "/static/media/slider1.05608f44.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.98e5b2ce.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.923c5205.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56668ad9.js",
+    "static/css/2.bab72b4a.chunk.css",
+    "static/js/2.5f66ddef.chunk.js",
+    "static/css/main.c9d85f12.chunk.css",
+    "static/js/main.0ab6bbbc.chunk.js"
+  ]
+}
