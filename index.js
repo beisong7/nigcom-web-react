@@ -5,10 +5,10 @@ var server = require('http').createServer(app);
 
 var port = process.env.port || 1337;
 
-app.use(express.static(path.join(__dirname, 'nigcom')));
+app.use(express.static(path.join(__dirname, 'build')));
 
 app.get('/', function(req, res) {
-  res.sendFile(path.join(__dirname, 'nigcom', 'index.html'));
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
 server.listen(port,function(e){
