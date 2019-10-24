@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afc26882.chunk.css",
+    "main.js": "/static/js/main.39ed5631.chunk.js",
+    "main.js.map": "/static/js/main.39ed5631.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56668ad9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56668ad9.js.map",
+    "static/css/2.bab72b4a.chunk.css": "/static/css/2.bab72b4a.chunk.css",
+    "static/js/2.919a6fdd.chunk.js": "/static/js/2.919a6fdd.chunk.js",
+    "static/js/2.919a6fdd.chunk.js.map": "/static/js/2.919a6fdd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aeddbf7c9444d0792adc192ff9071ba7.js": "/precache-manifest.aeddbf7c9444d0792adc192ff9071ba7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bab72b4a.chunk.css.map": "/static/css/2.bab72b4a.chunk.css.map",
+    "static/css/main.afc26882.chunk.css.map": "/static/css/main.afc26882.chunk.css.map",
+    "static/media/aladin.jpg": "/static/media/aladin.830b22b4.jpg",
+    "static/media/captain_marvel.jpg": "/static/media/captain_marvel.4d190790.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/io.jpg": "/static/media/io.88cea59f.jpg",
+    "static/media/nigcom-logo.png": "/static/media/nigcom-logo.ac048512.png",
+    "static/media/slider1.jpg": "/static/media/slider1.05608f44.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.98e5b2ce.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.923c5205.jpg",
+    "static/media/the_martian.jpg": "/static/media/the_martian.679959c4.jpg",
+    "static/media/whd.jpg": "/static/media/whd.d3472c9c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56668ad9.js",
+    "static/css/2.bab72b4a.chunk.css",
+    "static/js/2.919a6fdd.chunk.js",
+    "static/css/main.afc26882.chunk.css",
+    "static/js/main.39ed5631.chunk.js"
+  ]
+}
